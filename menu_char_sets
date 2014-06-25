@@ -1,0 +1,252 @@
+0. Basic Latin
+1. Latin-1 Supplement
+2. Latin Extended-A
+3. Latin Extended-B
+4. IPA Extensions
+5. Spacing Modifier Letters
+6. Combining Diacritical Marks
+7. Greek and Coptic
+8. Cyrillic
+9. Cyrillic Supplement
+10. Armenian
+11. Hebrew
+12. Arabic
+13. Syriac
+14. Arabic Supplement
+15. Thaana
+16. NKo
+17. Samaritan
+18. Mandaic
+19. Arabic Extended-A
+20. Devanagari
+21. Bengali
+22. Gurmukhi
+23. Gujarati
+24. Oriya
+25. Tamil
+26. Telugu
+27. Kannada
+28. Malayalam
+29. Sinhala
+30. Thai
+31. Lao
+32. Tibetan
+33. Myanmar
+34. Georgian
+35. Hangul Jamo
+36. Ethiopic
+37. Ethiopic Supplement
+38. Cherokee
+39. Unified Canadian Aboriginal Syllabics
+40. Ogham
+41. Runic
+42. Tagalog
+43. Hanunoo
+44. Buhid
+45. Tagbanwa
+46. Khmer
+47. Mongolian
+48. Unified Canadian Aboriginal Syllabics Extended
+49. Limbu
+50. Tai Le
+51. New Tai Lue
+52. Khmer Symbols
+53. Buginese
+54. Tai Tham
+55. Combining Diacritical Marks Extended
+56. Balinese
+57. Sundanese
+58. Batak
+59. Lepcha
+60. Ol Chiki
+61. Sundanese Supplement
+62. Vedic Extensions
+63. Phonetic Extensions
+64. Phonetic Extensions Supplement
+65. Combining Diacritical Marks Supplement
+66. Latin Extended Additional
+67. Greek Extended
+68. General Punctuation
+69. Superscripts and Subscripts
+70. Currency Symbols
+71. Combining Diacritical Marks for Symbols
+72. Letterlike Symbols
+73. Number Forms
+74. Arrows
+75. Mathematical Operators
+76. Miscellaneous Technical
+77. Control Pictures
+78. Optical Character Recognition
+79. Enclosed Alphanumerics
+80. Box Drawing
+81. Block Elements
+82. Geometric Shapes
+83. Miscellaneous Symbols
+84. Dingbats
+85. Miscellaneous Mathematical Symbols-A
+86. Supplemental Arrows-A
+87. Braille Patterns
+88. Supplemental Arrows-B
+89. Miscellaneous Mathematical Symbols-B
+90. Supplemental Mathematical Operators
+91. Miscellaneous Symbols and Arrows
+92. Glagolitic
+93. Latin Extended-C
+94. Coptic
+95. Georgian Supplement
+96. Tifinagh
+97. Ethiopic Extended
+98. Cyrillic Extended-A
+99. Supplemental Punctuation
+100. CJK Radicals Supplement
+101. Kangxi Radicals
+102. Ideographic Description Characters
+103. CJK Symbols and Punctuation
+104. Hiragana
+105. Katakana
+106. Bopomofo
+107. Hangul Compatibility Jamo
+108. Kanbun
+109. Bopomofo Extended
+110. CJK Strokes
+111. Katakana Phonetic Extensions
+112. Enclosed CJK Letters and Months
+113. CJK Compatibility
+114. CJK Unified Ideographs Extension A
+115. Yijing Hexagram Symbols
+116. CJK Unified Ideographs
+117. Yi Syllables
+118. Yi Radicals
+119. Lisu
+120. Vai
+121. Cyrillic Extended-B
+122. Bamum
+123. Modifier Tone Letters
+124. Latin Extended-D
+125. Syloti Nagri
+126. Common Indic Number Forms
+127. Phags-pa
+128. Saurashtra
+129. Devanagari Extended
+130. Kayah Li
+131. Rejang
+132. Hangul Jamo Extended-A
+133. Javanese
+134. Myanmar Extended-B
+135. Cham
+136. Myanmar Extended-A
+137. Tai Viet
+138. Meetei Mayek Extensions
+139. Ethiopic Extended-A
+140. Latin Extended-E
+141. Meetei Mayek
+142. Hangul Syllables
+143. Hangul Jamo Extended-B
+144. High Surrogates
+145. High Private Use Surrogates
+146. Low Surrogates
+147. Private Use Area
+148. CJK Compatibility Ideographs
+149. Alphabetic Presentation Forms
+150. Arabic Presentation Forms-A
+151. Variation Selectors
+152. Vertical Forms
+153. Combining Half Marks
+154. CJK Compatibility Forms
+155. Small Form Variants
+156. Arabic Presentation Forms-B
+157. Halfwidth and Fullwidth Forms
+158. Specials
+159. Linear B Syllabary
+160. Linear B Ideograms
+161. Aegean Numbers
+162. Ancient Greek Numbers
+163. Ancient Symbols
+164. Phaistos Disc
+165. Lycian
+166. Carian
+167. Coptic Epact Numbers
+168. Old Italic
+169. Gothic
+170. Old Permic
+171. Ugaritic
+172. Old Persian
+173. Deseret
+174. Shavian
+175. Osmanya
+176. Elbasan
+177. Caucasian Albanian
+178. Linear A
+179. Cypriot Syllabary
+180. Imperial Aramaic
+181. Palmyrene
+182. Nabataean
+183. Phoenician
+184. Lydian
+185. Meroitic Hieroglyphs
+186. Meroitic Cursive
+187. Kharoshthi
+188. Old South Arabian
+189. Old North Arabian
+190. Manichaean
+191. Avestan
+192. Inscriptional Parthian
+193. Inscriptional Pahlavi
+194. Psalter Pahlavi
+195. Old Turkic
+196. Rumi Numeral Symbols
+197. Brahmi
+198. Kaithi
+199. Sora Sompeng
+200. Chakma
+201. Mahajani
+202. Sharada
+203. Sinhala Archaic Numbers
+204. Khojki
+205. Khudawadi
+206. Grantha
+207. Tirhuta
+208. Siddham
+209. Modi
+210. Takri
+211. Warang Citi
+212. Pau Cin Hau
+213. Cuneiform
+214. Cuneiform Numbers and Punctuation
+215. Egyptian Hieroglyphs
+216. Bamum Supplement
+217. Mro
+218. Bassa Vah
+219. Pahawh Hmong
+220. Miao
+221. Kana Supplement
+222. Duployan
+223. Shorthand Format Controls
+224. Byzantine Musical Symbols
+225. Musical Symbols
+226. Ancient Greek Musical Notation
+227. Tai Xuan Jing Symbols
+228. Counting Rod Numerals
+229. Mathematical Alphanumeric Symbols
+230. Mende Kikakui
+231. Arabic Mathematical Alphabetic Symbols
+232. Mahjong Tiles
+233. Domino Tiles
+234. Playing Cards
+235. Enclosed Alphanumeric Supplement
+236. Enclosed Ideographic Supplement
+237. Miscellaneous Symbols and Pictographs
+238. Emoticons
+239. Ornamental Dingbats
+240. Transport and Map Symbols
+241. Alchemical Symbols
+242. Geometric Shapes Extended
+243. Supplemental Arrows-C
+244. CJK Unified Ideographs Extension B
+245. CJK Unified Ideographs Extension C
+246. CJK Unified Ideographs Extension D
+247. CJK Compatibility Ideographs Supplement
+248. Tags
+249. Variation Selectors Supplement
+250. Supplementary Private Use Area-A
+251. Supplementary Private Use Area-B
